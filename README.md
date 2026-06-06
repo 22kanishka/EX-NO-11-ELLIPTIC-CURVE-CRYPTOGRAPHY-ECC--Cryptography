@@ -99,6 +99,8 @@ return 0;
 
 
 ## Output:
+<img width="797" height="363" alt="image" src="https://github.com/user-attachments/assets/403e5865-e6c8-45b9-8996-e31247bb36ad" />
+
 
 
 
